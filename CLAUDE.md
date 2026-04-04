@@ -67,6 +67,9 @@ This messaging is expected to evolve. Features will be highlighted more prominen
 - Do NOT use: "LLM", "inference", "quantization", "GGUF", model names, benchmark scores
 - DO use: plain English, "on your Mac", "private", "free", "no account needed"
 
+### Formatting rules
+- Never use em dashes (—) in any content, copy, or descriptions. Use a regular dash (-), rewrite the sentence, or use a period instead.
+
 ### Website copy patterns (study these)
 The site uses very short, punchy sentences — often just a feature name followed by one line. Not bullet points, not paragraphs. Rhythm and confidence over completeness.
 
