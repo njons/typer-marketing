@@ -172,21 +172,90 @@ Content strategy: direct product pages and explainers for people already seeking
 
 ---
 
-## Seed terms still to research
+## Deep dive: ChatGPT message limit cluster — Ahrefs, April 2026
 
-### Cluster 5: Running out of tokens — Ahrefs, April 2026
+The single most important cluster for Typer. Full breakdown below.
 
-**Best opportunities:**
+### chatgpt message limit
 
 | Keyword | KD | Volume | Notes |
 |---------|-----|--------|-------|
-| chatgpt message limit | Easy | >1,000 | Top intercept target |
-| chatgpt message limit per day | N/A | >1,000 | Same |
-| how to bypass chatgpt message limit | Easy | >100 | High purchase intent — they want a solution now |
-| chatgpt message limit reached | N/A | >100 | Perfect moment — just hit the wall |
-| chatgpt token limit | Easy | >100 | More technical but same frustration |
+| chatgpt message limit | Easy | >1,000 | Primary target |
+| chatgpt message limit per day | N/A | >1,000 | Same audience |
+| chatgpt message limit per hour | Easy | >100 | More acute frustration - just hit hourly cap |
+| chatgpt message limit reset time | N/A | >100 | Waiting it out — wants to know how long |
+| how to bypass chatgpt message limit | Easy | >100 | Actively seeking a solution right now |
+| chatgpt message limit reached | N/A | >100 | Just hit the wall — peak frustration moment |
+| openai chatgpt message limit per day | N/A | >100 | Same as per day, OpenAI-branded search |
 
-**Takeaway:** Combined with cluster 4, the ChatGPT limits frustration cluster is the single biggest SEO opportunity. Multiple >1,000 volume terms with Easy or N/A KD. These users are primed — they just need to hear about Typer.
+Sub-variants (all <100, not worth targeting individually but confirm the audience):
+- `chatgpt message limit free plan` — free users specifically
+- `chatgpt message limit per day 2026` — recency-seekers, want current info
+- `chatgpt message limit 40 messages 3 hours` — already knows the specific limit, wants to confirm
+
+**Insight:** The sub-variants reveal exactly what the audience wants to know: what is the limit, is it because I'm on free, and how long until it resets. That's the content map for an intercept page.
+
+---
+
+### chatgpt message limit per day (deep dive)
+
+All variants are <100 except the main term. The long tail here (`free plan`, `free tier`, `free version`, `free account`, `free users`) tells a consistent story: **people suspect they're being limited because they're on the free plan and are considering whether to upgrade.**
+
+**Insight:** This audience is at a decision point — pay for ChatGPT Plus or find another way. Typer should show up here as option 3: don't pay, use your Mac.
+
+---
+
+### how to bypass chatgpt message limit
+
+| Keyword | KD | Volume |
+|---------|-----|--------|
+| how to bypass chatgpt message limit | Easy | >100 |
+| how to bypass chatgpt message limit reddit | N/A | <100 |
+| how to bypass chatgpt message limit per hour | N/A | <100 |
+
+Small cluster but high intent. The Reddit variant shows people already look for community workarounds. Content here should position Typer not as a "hack" but as the clean solution — no limit at all, runs on your Mac.
+
+---
+
+### chatgpt message limit reached
+
+| Keyword | KD | Volume |
+|---------|-----|--------|
+| chatgpt message limit reached | N/A | >100 |
+| chatgpt message limit reached what to do | N/A | <100 |
+| chatgpt message limit reached how long wait | N/A | <100 |
+| chatgpt message limit reached how to reset | N/A | <100 |
+| chatgpt message limit reached error | N/A | <100 |
+
+**Insight:** The sub-variants are the content brief. Users want: (1) what does this mean, (2) how long do I wait, (3) is there a fix. An intercept page that answers all three — and ends with "or never hit a limit again with Typer" — is the exact right structure.
+
+---
+
+### chatgpt token limit
+
+| Keyword | KD | Volume |
+|---------|-----|--------|
+| chatgpt token limit | Easy | >100 |
+| chatgpt token limit per message | N/A | >100 |
+| chatgpt token limit per conversation | N/A | >100 |
+| chatgpt token limit free vs paid | N/A | <100 |
+
+Slightly more technical audience than the "message limit" searchers — they know the word "token." Same underlying frustration. The "free vs paid" variant confirms they're evaluating whether to upgrade.
+
+**Insight:** This cluster can be captured by the same page as the message limit cluster — they're the same person, different vocabulary.
+
+---
+
+### Content recommendation: one page to rule this cluster
+
+A single well-structured page can rank across all of these keywords. Proposed structure:
+
+1. What is the ChatGPT message limit (and why you hit it)
+2. How long until it resets
+3. How to get more messages without paying
+4. Introduce Typer — no limits, runs on your Mac, free forever
+
+This page targets: `chatgpt message limit`, `chatgpt message limit per day`, `chatgpt message limit reached`, `how to bypass chatgpt message limit`, `chatgpt token limit`, and all their variants. One page, 8+ keywords, Easy/N/A KD across the board.
 
 ---
 
