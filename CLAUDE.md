@@ -8,6 +8,20 @@ This repo contains marketing research, content, and assets for Typer.
 **Website repo:** ../website
 **Support:** studio@satellite.studio (Satellite Studio)
 
+## Email
+
+Zoho Mail via `zoho` MCP. Account ID: `8557766000000002002`. Send as plaintext. Always use `"Duarte Carrilho da Graça" <duarte@typer.space>` as the fromAddress (with quotes and angle brackets, not just the email).
+
+## Revenue Data (App Store Connect API)
+
+When a marketing task needs sales/IAP data — e.g. attributing revenue to a campaign, computing conversion lift, measuring outreach impact:
+
+- Vendor number `APP_STORE_API_VENDOR_NUMBER=93641317` is in this repo's `.env`
+- Full API credentials (key ID, issuer, `.p8` private key) live in `../typer/.env` and `~/.appstoreconnect/private_keys/AuthKey_335PH8SHC2.p8`
+- Sign an ES256 JWT (audience `appstoreconnect-v1`, 20 min lifetime), then GET `/v1/salesReports` with the vendor number to get gzipped TSV per day/month/year
+- Gotchas: data starts 2026-02-11 (App Store launch), most recent day 404s for ~24h, refunds appear as negative `Units`, `IA1-M` product type = Mac IAP
+- See `../typer/CLAUDE.md` § Revenue Data for the full pattern and the analytics-reports flow (referrer/source attribution)
+
 ---
 
 ## What is Typer
