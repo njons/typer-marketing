@@ -8,6 +8,10 @@ This repo contains marketing research, content, and assets for Typer.
 **Website repo:** ../website
 **Support:** studio@satellite.studio (Satellite Studio)
 
+## Linear
+
+Issue tracking via the Linear CLI (`linear`). Use it to look up, create, and update issues.
+
 ## Email
 
 Zoho Mail via `zoho` MCP. Account ID: `8557766000000002002`. Send as plaintext. Always use `"Duarte Carrilho da Graça" <duarte@typer.space>` as the fromAddress (with quotes and angle brackets, not just the email).
