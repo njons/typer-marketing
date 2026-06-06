@@ -12,6 +12,8 @@ This repo contains marketing research, content, and assets for Typer.
 
 Issue tracking via the Linear CLI (`linear`). Use it to look up, create, and update issues.
 
+**Always tag every ticket** with exactly one label: `App` (the Typer app) or `Marketing` (website, content, outreach, and everything else). These feed the shared "App" and "Marketing" board views — create with `linear issue create ... -l Marketing`.
+
 ## Email
 
 Zoho Mail via `zoho` MCP. Account ID: `8557766000000002002`. Send as plaintext. Always use `"Duarte Carrilho da Graça" <duarte@typer.space>` as the fromAddress (with quotes and angle brackets, not just the email).
